@@ -1,0 +1,14 @@
+**.DS_Store
+**__pycache__**
+
+eval_LTL/data/*.npz
+eval_LTL/data/*.pdf
+
+eval_egoexo4d/data
+eval_egoexo4d/data_embedding
+eval_egoexo4d/data_augment
+
+eval_DoorKey/*.pkl
+eval_DoorKey/*.pth
+eval_DoorKey/*.gif
+eval_DoorKey/state_data
