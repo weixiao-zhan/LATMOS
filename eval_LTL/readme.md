@@ -1,5 +1,6 @@
 
 # V.A Automata Learning from Positive Demonstrations
+0. instructions to install spot library: https://spot.lre.epita.fr/install.html
 
 1. Prepare the random walk data
 ```{bash}
