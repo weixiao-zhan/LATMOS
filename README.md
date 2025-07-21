@@ -11,13 +11,11 @@ This repo contains all the code associated to [LATMOS: Latent Automaton Task Mod
 ### Citation
 👀 If you find this work useful:
 ```
-@misc{zhan2025latmos,
-      title={LATMOS: Latent Automaton Task Model from Observation Sequences}, 
-      author={Weixiao Zhan and Qiyue Dong and Eduardo Sebastián and Nikolay Atanasov},
-      year={2025},
-      eprint={2503.08090},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2503.08090}, 
+@inproceedings{zhan2025latmos,
+  title={LATMOS: Latent Automaton Task Model from Observation Sequences},
+  author={Weixiao Zhan and Qiyue Dong and Eduardo Sebastián and Nikolay Atanasov},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2025},
+  organization={IEEE}
 }
 ```
